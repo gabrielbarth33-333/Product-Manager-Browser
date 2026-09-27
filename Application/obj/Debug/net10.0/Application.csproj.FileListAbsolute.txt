@@ -16,3 +16,4 @@ C:\Users\gabriel\source\repos\26E3_2\Application\obj\Debug\net10.0\Application.d
 C:\Users\gabriel\source\repos\26E3_2\Application\obj\Debug\net10.0\refint\Application.dll
 C:\Users\gabriel\source\repos\26E3_2\Application\obj\Debug\net10.0\Application.pdb
 C:\Users\gabriel\source\repos\26E3_2\Application\obj\Debug\net10.0\ref\Application.dll
+C:\Users\gabriel\source\repos\26E3_2\Application\obj\Debug\net10.0\Application.sourcelink.json
