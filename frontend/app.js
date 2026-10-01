@@ -1,4 +1,4 @@
-const API_URL = 'https://localhost:7001/api/products';
+const API_URL = 'https://product-manager-api-ekbrbagabcfbawg9.westus3-01.azurewebsites.net/api/products';
 
 const elements = {
     loading: document.getElementById('loading'),

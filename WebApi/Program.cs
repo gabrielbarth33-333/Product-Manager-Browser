@@ -15,7 +15,9 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:5500", "https://localhost:5500")
+        policy.WithOrigins("http://localhost:5500",
+                           "https://localhost:5500",
+                           "https://blue-ocean-0a353b80f.1.azurestaticapps.net")
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
